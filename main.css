@@ -14,3 +14,15 @@ form div {
 .noticia .conteudo {
     display: none;
 }
+
+.noticia .nome {
+    font-weight: bold;
+}
+
+.noticia .email {
+    font-weight: bold;
+}
+
+.noticia .data {
+    font-weight: bold;
+}
